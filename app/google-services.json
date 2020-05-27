@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "770928313789",
+    "firebase_url": "https://mygaraje068222404.firebaseio.com",
+    "project_id": "mygaraje068222404",
+    "storage_bucket": "mygaraje068222404.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:770928313789:android:e66fcdc5d2f233cdd3bed4",
+        "android_client_info": {
+          "package_name": "lapolina.md"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "770928313789-r0rv4lmasib79he2usanjispc8jc1v55.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFkybPMklHEjmfRVboBU_shlCUAa7YrSI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "770928313789-r0rv4lmasib79he2usanjispc8jc1v55.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

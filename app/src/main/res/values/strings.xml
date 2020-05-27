@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MyGaraj</string>
+    <string name="paket">Пакеты</string>
+    <string name="cups">Стаканчики\\мешалки</string>
+    <string name="fireWorks">Свечи\\Шарики\\Фейрверки</string>
+    <string name="plasticBox">Упаковка кондитерская</string>
+    <string name="factory">Для производства</string>
+    <string name="default_value">0</string>
+    <string name="stock_zero">Остаток:0.</string>
+    <string name="counter_14_32">0</string>
+    <string name="Accept">Подтвердите выбор</string>
+    <string name="Send">Отправить заявку</string>
+    <string name="Sendet">Отрпавленно</string>
+</resources>
